@@ -1,5 +1,5 @@
-# Historismus (er-)leben: becoming/creating/designing a metropolis zeichnet sich durch eine starke interdisziplinäre Zusammenarbeit aus, bei der Expert:innen aus verschiedenen Bereichen zusammenkommen, um die Rekonstruktion der Bauentwicklungen der Wiener Ringstraße zu realisieren. 
-Im Team mit dabei sind:
+# Role of Team Members
+Historismus (er-)leben: becoming/creating/designing a metropolis zeichnet sich durch eine starke interdisziplinäre Zusammenarbeit aus, bei der Expert:innen aus verschiedenen Bereichen zusammenkommen, um die Rekonstruktion der Bauentwicklungen der Wiener Ringstraße zu realisieren. Im Team mit dabei sind:
 
 **HistorikerIn (Sebastian Meissl):** <br>
 Sebastian Meissl (Praedoc - Stadtplanung und sozialer Wandel in Wien im 19. Jahrhundert ) ist Historiker und arbeitet sowohl am Institut für Geschichte als auch im Wiener Ringstraßen-Archiv der Geisteswissenschaftlichen Fakultät der Universität Wien. Er bringt sein Fachwissen in die historische Forschung ein und ist verantwortlich für die wissenschaftliche Genauigkeit und die historische Authentizität des Projekts.
