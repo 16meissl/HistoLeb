@@ -2,7 +2,7 @@
 Im Team mit dabei sind:
 
 **HistorikerIn (Sebastian Meissl):** <br>
-Sebastian Meissl (Praedoc - Stadtplanung und sozialer Wandel in Wien im 19. Jahrhundert ) ist Historiker und arbeitet sowohl am Institut für Geschichte als auch im Wiener Ringstraßen-Archiv der Geis￾teswissenschaftlichen Fakultät der Universität Wien. Er bringt sein Fachwissen in die historische For￾schung ein und ist verantwortlich für die wissenschaftliche Genauigkeit und die historische Authentizität des Projekts.
+Sebastian Meissl (Praedoc - Stadtplanung und sozialer Wandel in Wien im 19. Jahrhundert ) ist Historiker und arbeitet sowohl am Institut für Geschichte als auch im Wiener Ringstraßen-Archiv der Geisteswissenschaftlichen Fakultät der Universität Wien. Er bringt sein Fachwissen in die historische Forschung ein und ist verantwortlich für die wissenschaftliche Genauigkeit und die historische Authentizität des Projekts.
 
 **EntwicklerIn (Leona Münzer):** <br>
 Leona Münzer (Postdoc - Innovative Technologien in der Bildung) arbeitet als Entwicklerin an der Technischen Universität Wien. Sie ist verantwortlich für die technologische Umsetzung des Projekts, insbesondere für die Erstellung der interaktiven Website und die Implementierung der 3D-Visualisierung. Zudem ist sie die erste von zwei DidaktikerInnen in diesem Team.
