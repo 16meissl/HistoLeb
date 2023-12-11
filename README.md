@@ -1,4 +1,7 @@
 # HistoLeb
-Repository - project "Historismus (er-)leben: becoming/creating/designing a metropolis" 
 
-Das Projekt Historismus (er-)leben: becoming/creating/designing a metropolis zielt darauf ab, die historische Entwicklung der Wiener Ringstraße auf Basis von modernen digitalen Technologien anschaulich und intuitiv darzustellen. Als Fortsetzung der vorrangig kunsthistorisch orientierten Ringstraßen-Forschung aus der zweiten Hälfte des 20. Jahrhunderts soll die Bauentwicklung der Ringstraße mit besonderem Augenmerk auf Baufortschritt, Planumsetzung und Stadtbildveränderung mithilfe von 3D-Visualisierungen untersucht werden. Hauptziel ist es, sowohl Fachleuten als auch der breiten Öffentlichkeit ein vertieftes, aber auch intuitiv nachvollziehbares Verständnis der architektonischen Entwicklungen der Ringstraße zu bieten. Dafür werden archivalische Daten digitalisiert, eine umfassende Datenbank erstellt und ein 3D-Modell der Ringstraße entwickelt. Das Projekt wird durch ein interdisziplinäres Team aus Historiker:innen, Entwickler:innen  und digitalen Geisteswissenschaftler:innen realisiert, die gemeinsam daran arbeiten, historische Genauigkeit, technologische Innovation und didaktische Bildungszwecke zu verbinden. Das Endergebnis wird eine interaktive Website sein, die die Ringstraße und ihre Geschichte für die Öffentlichkeit erlebbar macht.
+Repository - project "Historismus (er-)leben: becoming/creating/designing a metropolis"
+
+Das Projekt Historismus (er-)leben: becoming/creating/designing a metropolis zielt darauf ab, die historische Entwicklung der Wiener Ringstraße auf Basis von modernen digitalen Technologien anschaulich und intuitiv darzustellen.
+
+Für unseren Projektplan bitte Wiki durchsehen!
